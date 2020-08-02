@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-hola umundo
-=======
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,4 +7,3 @@ hola umundo
 
 </body>
 </html>
->>>>>>> v1
